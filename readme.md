@@ -31,18 +31,6 @@ Durante a implementação deste projeto, pude:
 - Estruturação e modelagem de classes Java
 - Utilização prática de conceitos teóricos da POO
 
-## 📂 Estrutura do Projeto
-
-src/
-├── Main.java
-├── dominio/
-│ ├── Bootcamp.java
-│ ├── Curso.java
-│ ├── Mentoria.java
-│ └── Dev.java
-│ └── Conteudo.java
-
-
 ## 📌 Considerações Finais
 
 Este desafio foi uma excelente oportunidade de colocar em prática os conceitos fundamentais da POO, reforçando não apenas o conhecimento teórico, mas também a capacidade de modelar soluções baseadas em objetos de forma coesa e reutilizável.
